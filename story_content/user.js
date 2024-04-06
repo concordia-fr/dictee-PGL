@@ -2,833 +2,977 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5doc5U2uj9t":
+      case "5xsEj8l3Gug":
         Script1();
         break;
-      case "6ijMutswGaU":
+      case "6Z67tmxkmKt":
         Script2();
         break;
-      case "6VotGFaLGqf":
+      case "5bnC9IwXEDq":
         Script3();
         break;
-      case "60BZiCJ6L8y":
+      case "6HRGBFuaNYA":
         Script4();
         break;
-      case "6NrlDKm0D0w":
+      case "6BiVgVKAj1J":
         Script5();
         break;
-      case "6DfyNoU045a":
+      case "6eoNPSND1Cg":
         Script6();
         break;
-      case "5Y47Bx2kIAb":
+      case "6GGiaegReIp":
         Script7();
         break;
-      case "62jbU6A3qTw":
+      case "6qqn7FEAmyv":
         Script8();
         break;
-      case "6qJtm7lj9bK":
+      case "6VHGHzYsmZj":
         Script9();
         break;
-      case "6lSzoV8KkWo":
+      case "5aDEhqZcy2O":
         Script10();
         break;
-      case "6Cvg4epjs00":
+      case "5tFT2TuQYsE":
         Script11();
         break;
-      case "6Tx9zXnY92N":
+      case "6dylokD6Lg8":
         Script12();
         break;
-      case "5iUqa5d69lH":
+      case "5iPjQ82iJBk":
         Script13();
         break;
-      case "6g0pDMZG253":
+      case "6RSewvTnHVg":
         Script14();
         break;
-      case "5mZFTi8IOuR":
+      case "6Ojh40l9dyK":
         Script15();
         break;
-      case "6IalJj0r6QI":
+      case "61FC3HTYIqE":
         Script16();
         break;
-      case "6KVZtR1xgPg":
+      case "5v3InnQbwbM":
         Script17();
         break;
-      case "65exwlQ3iLj":
+      case "67ZmImn4kmF":
         Script18();
         break;
-      case "5rpZl8on3HL":
+      case "6HgzJld04zr":
         Script19();
         break;
-      case "6YaOObJSv2L":
+      case "5YGuuovrxV9":
         Script20();
         break;
-      case "6VM5aWINJNU":
+      case "6Rd2h6iFVa6":
         Script21();
         break;
-      case "5nVSXDNYBFb":
+      case "6KNVqBFwiwy":
         Script22();
         break;
-      case "66i4ZSkwkJ2":
+      case "6DidxumBuSC":
         Script23();
         break;
-      case "6K821myFad9":
+      case "6ANu6UWhBIl":
         Script24();
         break;
-      case "6rG9QVCWcgJ":
+      case "6hQqwQ0t6s5":
         Script25();
         break;
-      case "6ercUI5fKvy":
+      case "6LSod2knEg5":
         Script26();
         break;
-      case "65yEcr8e7qC":
+      case "6XmSper2gPY":
         Script27();
         break;
-      case "5uDI9JYPhK9":
+      case "5hQhKCyH8K8":
         Script28();
         break;
-      case "69r0Ej59YPn":
+      case "6DUbJJ8t6bE":
         Script29();
         break;
-      case "6eFPUDn6NdS":
+      case "6qybkgPAeDJ":
         Script30();
         break;
-      case "6p3UVF5e0fN":
+      case "5j5aGANocNR":
         Script31();
         break;
-      case "5UtS1c2Kg9j":
+      case "5WiUSKKidRT":
         Script32();
         break;
-      case "5beVy2ONfGa":
+      case "5XNtDWz4X0w":
         Script33();
         break;
-      case "5w28ofOUtN2":
+      case "6Iax4NJ7U79":
         Script34();
         break;
-      case "5h2YslDAbez":
+      case "5yx62wL44F9":
         Script35();
         break;
-      case "6FPwLOnJANM":
+      case "5WuTd9e0AbT":
         Script36();
         break;
-      case "6icx0LkymUm":
+      case "6lbnheeM3uE":
         Script37();
         break;
-      case "5aWeMuAFooS":
+      case "5dQJREXEQ3g":
         Script38();
         break;
-      case "6lFviFE0wDb":
+      case "5xrTDkF5E1G":
         Script39();
         break;
-      case "6SghtmRiGmQ":
+      case "6hx6qu3aNEv":
         Script40();
         break;
-      case "6KEKiv9c6Zw":
+      case "6PxGj9bwxt6":
         Script41();
         break;
-      case "6QBSvn4tgru":
+      case "69zYukPZI1a":
         Script42();
         break;
-      case "6Qm9lAc4fsx":
+      case "6a8KRVDVEUg":
         Script43();
         break;
-      case "5u7ftws9BqF":
+      case "6Lv0nYt7T1y":
         Script44();
         break;
-      case "68z7bBtZCQp":
+      case "64YA8r1MVxJ":
         Script45();
         break;
-      case "6f8W0e5UY4k":
+      case "5ZoaSpp2WAS":
         Script46();
         break;
-      case "6pKA1LNZ96Z":
+      case "65hw0NUipTy":
         Script47();
         break;
-      case "5mG30nFTHX8":
+      case "6khpRsGiuKy":
         Script48();
         break;
-      case "6axlFo1dygg":
+      case "66bJgof0ZkP":
         Script49();
         break;
-      case "6KE1BxA5g8a":
+      case "6EizzeTL3R9":
         Script50();
         break;
-      case "6I5aoQnXt8S":
+      case "6nlVCoMtp1R":
         Script51();
         break;
-      case "5qHasevuRHt":
+      case "6Y5FUao5yxl":
         Script52();
         break;
-      case "5t8eAfmNrub":
+      case "5pnnWTaiGcC":
         Script53();
         break;
-      case "5n3NT6H3n4T":
+      case "6ev4NWRZHBR":
         Script54();
         break;
-      case "657o3ApA6EZ":
+      case "6g39DV4sFkV":
         Script55();
         break;
-      case "6ZFdaNSi1N4":
+      case "6TE30Lugj1c":
         Script56();
         break;
-      case "5yg3TqwDlfV":
+      case "6PFMlnFJTZ3":
         Script57();
         break;
-      case "5aYucpnUXS1":
+      case "6DuRv8Bc1Xo":
         Script58();
         break;
-      case "6Hp7kFVBoWZ":
+      case "5Wlle2Wvd2B":
         Script59();
         break;
-      case "5tDF5z3YsVX":
+      case "69Q9OW30ltf":
         Script60();
         break;
-      case "6WTGUqkMEiW":
+      case "661nN2GrGiX":
         Script61();
         break;
-      case "6dDahxKz3nS":
+      case "6A58epHqEu4":
         Script62();
         break;
-      case "6qgOXIciPqZ":
+      case "5yUDWwtH7mF":
         Script63();
         break;
-      case "6c2LqrH7IpN":
+      case "5zXkBB6nIdJ":
         Script64();
         break;
-      case "5hjvOt0q2P7":
+      case "6pFvcPleSuj":
         Script65();
         break;
-      case "6VIjgwARX08":
+      case "6l8kDu3TJGH":
         Script66();
         break;
-      case "68vAoglOT49":
+      case "5nxquPlfG42":
         Script67();
         break;
-      case "5Y70WgrW9bj":
+      case "6h9fNvM5bj6":
         Script68();
         break;
-      case "5VCJCYvtcYL":
+      case "6gcIYd74pmz":
         Script69();
         break;
-      case "6DrWS1hTBGA":
+      case "6MbFAdLm9Jv":
         Script70();
         break;
-      case "6rhG0IILVXa":
+      case "5pbfGR94TYi":
         Script71();
         break;
-      case "5zgrfzQCwxP":
+      case "6idB6emkBCZ":
         Script72();
         break;
-      case "6mCSkWsfQ1m":
+      case "6h7cmKOjRnk":
         Script73();
         break;
-      case "5WtUgnL1tS4":
+      case "6VMI0H4Tvsw":
         Script74();
         break;
-      case "6YHJgBa5o51":
+      case "6BBepOOZpUA":
         Script75();
         break;
-      case "6SQDyiuQDjw":
+      case "6UdsgBOuWsN":
         Script76();
         break;
-      case "6m3n6Yo4jfX":
+      case "6b5PVwFFoVL":
         Script77();
         break;
-      case "6dTNbGyXVjZ":
+      case "6ZoRFL03BmI":
         Script78();
         break;
-      case "6hKl6h2aALk":
+      case "6OrnTJsI8CV":
         Script79();
         break;
-      case "6UVaZ7f7qKr":
+      case "6RkENZr4Y5e":
         Script80();
         break;
-      case "5qNytiU1Vut":
+      case "6SaUAgkchf2":
         Script81();
         break;
-      case "5j2sNxfxK6U":
+      case "6eG9NT4B6e5":
         Script82();
         break;
-      case "69w68vOeaIL":
+      case "67kzR6M1cw4":
         Script83();
         break;
-      case "5b3M0k8INGT":
+      case "6KLKS5G3AZj":
         Script84();
         break;
-      case "5vbvkLb6yXb":
+      case "5hyrXPjCnKS":
         Script85();
         break;
-      case "6namWlwYVWC":
+      case "5lluxlcof4q":
         Script86();
         break;
-      case "6HeESnqpXy1":
+      case "6Yb6NgTTdP3":
         Script87();
         break;
-      case "5VFJnw0U7Xv":
+      case "5X3zFrM3ZLp":
         Script88();
         break;
-      case "6BBbLWbJleF":
+      case "6Ryx9sPKsPN":
         Script89();
         break;
-      case "66JxZ4FG1TB":
+      case "6RcxVUmtsns":
         Script90();
         break;
-      case "61osSq0Qz0x":
+      case "5jrAALwtFso":
         Script91();
         break;
-      case "6Wh3d5suJ2n":
+      case "6X3uaJUiRcK":
         Script92();
         break;
-      case "6QQYPfvcM9Z":
+      case "66wlqMjhVic":
         Script93();
         break;
-      case "6CX5yBS48wZ":
+      case "5vzMi7ndCgM":
         Script94();
         break;
-      case "5bocYKn731E":
+      case "6gMrKLtHuZL":
         Script95();
         break;
-      case "5rDHMkN273K":
+      case "6Ed0f0uH4uf":
         Script96();
         break;
-      case "6dLLkClMzeY":
+      case "69vNNdlLMsC":
         Script97();
         break;
-      case "6oG3ztX9yLx":
+      case "5ro2lqCe1Xf":
         Script98();
         break;
-      case "5m4K2IhJ3mT":
+      case "6XPIlEi0KMs":
         Script99();
         break;
-      case "637V7YCrEGA":
+      case "6qrBIZ4sPUf":
         Script100();
         break;
-      case "6Oj2D9KVWqS":
+      case "6ONzC8tsE19":
         Script101();
         break;
-      case "6cZy7lZojb5":
+      case "5XqZ2EOnv52":
         Script102();
         break;
-      case "6AlOIWU9S39":
+      case "6RGSma6B8AE":
         Script103();
         break;
-      case "6cG6JRAeGjH":
+      case "64xTt1LlKwd":
         Script104();
         break;
-      case "63E6D0lBCqb":
+      case "6CQxxdkHJg6":
         Script105();
         break;
-      case "6RP7GoveqRR":
+      case "6NnX9QIS2Sl":
         Script106();
         break;
-      case "6NbUwAKfCPh":
+      case "6Ae0cnFeurA":
         Script107();
         break;
-      case "6f6nlOeY47N":
+      case "6JWyxDQ5UTd":
         Script108();
         break;
-      case "5YFlBsypmXX":
+      case "69NGpelcdlP":
         Script109();
         break;
-      case "6esEoDcyuNN":
+      case "5hBcXnOWpdf":
         Script110();
         break;
-      case "5cDydLHKOUN":
+      case "64HUCPiEOYm":
         Script111();
         break;
-      case "6mP8D0E3xw8":
+      case "6ZqJ5pTSujW":
         Script112();
         break;
-      case "5UuMJQSk6ZH":
+      case "6RcoVDWnRrY":
         Script113();
         break;
-      case "5uYCbPf962h":
+      case "5lkytNFnCTs":
         Script114();
         break;
-      case "6Nhcs4vHd88":
+      case "5t3e0Q24llk":
         Script115();
         break;
-      case "6L1LqvPiWM4":
+      case "6kV2JCNRlsn":
         Script116();
         break;
-      case "5tStuZBmdim":
+      case "6nk9lbDudnz":
         Script117();
         break;
-      case "5ncD2okK7rp":
+      case "5ifMe6CLSZb":
         Script118();
         break;
-      case "5VBDA5Zfknc":
+      case "5vEDqAuQWLb":
         Script119();
         break;
-      case "6nUFEPqVKzU":
+      case "5XvE5cGou6Q":
         Script120();
         break;
-      case "5np193BlvPI":
+      case "6XmSn0bx7Un":
         Script121();
         break;
-      case "65uLEqXWsK9":
+      case "6SDR81fpPct":
         Script122();
         break;
-      case "6jHjhHIV62a":
+      case "69wh13bj5W4":
         Script123();
         break;
-      case "6eODjfVDVxP":
+      case "5p1D9o1a8QH":
         Script124();
         break;
-      case "5oM19wp2Hhx":
+      case "5z5N6ucyzHh":
         Script125();
         break;
-      case "6bAbevkcYfe":
+      case "5Us4DwaESe9":
         Script126();
         break;
-      case "65WWEIAuvjs":
+      case "5kz1odlMoop":
         Script127();
         break;
-      case "5yqj2YOicU5":
+      case "66WqjBpW6M3":
         Script128();
         break;
-      case "6eOcr8kXcDX":
+      case "6qUSmzLeKDl":
         Script129();
         break;
-      case "5lc6e8IMTSY":
+      case "67MIuEWuJCp":
         Script130();
         break;
-      case "5cseHkLMFwF":
+      case "6Lk7jmrThvF":
         Script131();
         break;
-      case "6BYFTC5I2kX":
+      case "6pl0c1QjRqO":
         Script132();
         break;
-      case "5ppYPH19EC9":
+      case "6XM7jJKBITu":
         Script133();
         break;
-      case "6n4R1UYqhlh":
+      case "5ZsGhNTkzXd":
         Script134();
         break;
-      case "5VjlYWe4OeE":
+      case "5ZIaX2vIiiR":
         Script135();
         break;
-      case "6RsQxwA26rr":
+      case "6oheYLpMzlK":
         Script136();
         break;
-      case "5f2PhZGKru5":
+      case "6c2iDd0QSjM":
         Script137();
         break;
-      case "68UY8Q68PHv":
+      case "5xEnX3dR3O0":
         Script138();
         break;
-      case "6Tfn1lCqD6L":
+      case "6PxFMZ3rk98":
         Script139();
         break;
-      case "5s5dhU17iby":
+      case "6625vIC2rUO":
         Script140();
         break;
-      case "64JbblB9HAe":
+      case "5x99iLCOj3i":
         Script141();
         break;
-      case "5v6n1LF3S2a":
+      case "5p7A8nn6Ecz":
         Script142();
         break;
-      case "6HDEvl7W9q2":
+      case "6DwgDskDqr4":
         Script143();
         break;
-      case "6LLIz4Kqajy":
+      case "6ae98zmNGio":
         Script144();
         break;
-      case "6DGwO8X2OuO":
+      case "6M9n4DE81a8":
         Script145();
         break;
-      case "6ZHYWSkwz02":
+      case "5laEjNM2Hgw":
         Script146();
         break;
-      case "6Dqhd7HNKBM":
+      case "6plAaG2PEWa":
         Script147();
         break;
-      case "65PQzT98xUR":
+      case "6MOEtw5MHQ7":
         Script148();
         break;
-      case "65xC36nTvj9":
+      case "6lRq8dyI1Gh":
         Script149();
         break;
-      case "6B6ynN4bVjB":
+      case "5bn2P36L0ld":
         Script150();
         break;
-      case "67kfYewdLLX":
+      case "6CdEnLYQ18F":
         Script151();
         break;
-      case "5W6zGxEU1qb":
+      case "5prSyzWIfmp":
         Script152();
         break;
-      case "5hmkWliwlHS":
+      case "6DmLfXELCCQ":
         Script153();
         break;
-      case "5Y8qjE693Ib":
+      case "6A1MuYUuHe6":
         Script154();
         break;
-      case "6VsXo9IwfvS":
+      case "6gGQXT0Nnby":
         Script155();
         break;
-      case "621jjbaucCY":
+      case "5hv3Msu48Im":
         Script156();
         break;
-      case "5msjb2KAADy":
+      case "5ezc2xgzG6n":
         Script157();
         break;
-      case "6eKasr6DqVZ":
+      case "5WEUXxsUVZr":
         Script158();
         break;
-      case "5Zp61n1m9ma":
+      case "6ZOvR9Hjbkr":
         Script159();
         break;
-      case "5a50ElbBOEC":
+      case "6aLURqD0fHG":
         Script160();
         break;
-      case "6EvD5hE9654":
+      case "6injX7qWyTL":
         Script161();
         break;
-      case "6jcRQ3kzKyB":
+      case "5iSKPrFiOD1":
         Script162();
         break;
-      case "66mMUwvUX6M":
+      case "5koaPUYFwYj":
         Script163();
         break;
-      case "6VLMfsCgkt5":
+      case "5rhJp4DFPiw":
         Script164();
         break;
-      case "5jm8EnsOI3p":
+      case "5kXzkfQEcZU":
         Script165();
         break;
-      case "5lqa0G34dkv":
+      case "698DCWhiZrX":
         Script166();
         break;
-      case "5lHUvDR3j9r":
+      case "6jiWLuUxn7Q":
         Script167();
         break;
-      case "5zvnbIkmMqi":
+      case "64416ke8P1F":
         Script168();
         break;
-      case "6NUNsBJxLHP":
+      case "5m9Exe7aUAI":
         Script169();
         break;
-      case "6FcB6QUvWMr":
+      case "6cerwDwHB9W":
         Script170();
         break;
-      case "6EvOZAtHKUi":
+      case "5e2sa7pEsJn":
         Script171();
         break;
-      case "5sMzCDudm2F":
+      case "5gzEmDXb7YO":
         Script172();
         break;
-      case "6oCYvjzweja":
+      case "5i2JjhyCC7R":
         Script173();
         break;
-      case "6HJwf9MTU0z":
+      case "5fhue0TKjas":
         Script174();
         break;
-      case "6grXw1dX6hd":
+      case "6mMYWlzKdi5":
         Script175();
         break;
-      case "6IeOYideXpm":
+      case "6BGVVPtPFFZ":
         Script176();
         break;
-      case "6lFqJigZA6C":
+      case "64cY3ScKbQL":
         Script177();
         break;
-      case "67Kqv3bBVWC":
+      case "6XGwZ3Uqub3":
         Script178();
         break;
-      case "5ftxYrkNcy8":
+      case "5pimN8hm2Vb":
         Script179();
         break;
-      case "5bR2Rh6Cko3":
+      case "6g9nXvMShqJ":
         Script180();
         break;
-      case "5qm4mOcDM3F":
+      case "5WaWpe41g7A":
         Script181();
         break;
-      case "6kgviduivjP":
+      case "60cd1l6K19e":
         Script182();
         break;
-      case "6pXrd5wlFDT":
+      case "5kgdMROJ2cs":
         Script183();
         break;
-      case "5jTT760nWNx":
+      case "69RmObFu9oC":
         Script184();
         break;
-      case "6ln8ULFHwb7":
+      case "6axbgVQCrRa":
         Script185();
         break;
-      case "6jl3CVzFeQc":
+      case "6LiZZbkSY5C":
         Script186();
         break;
-      case "5Z8lJl4m6Kl":
+      case "6cqDMEWTYa3":
         Script187();
         break;
-      case "5sqHlfc7wlK":
+      case "6qr1MOhhrOh":
         Script188();
         break;
-      case "5jgjY83E00h":
+      case "6DY4BB6IRYd":
         Script189();
         break;
-      case "6fgauJIhpeE":
+      case "6WYQFxE0hu4":
         Script190();
         break;
-      case "6K82TKuBpBt":
+      case "6CXs1EUCxge":
         Script191();
         break;
-      case "62vZF5iUQS5":
+      case "5fQRcEn7Yn1":
         Script192();
         break;
-      case "6hlwAGO1ttI":
+      case "5aXuc1Pvalc":
         Script193();
         break;
-      case "68CGngUjaI8":
+      case "5pDqtTqThu8":
         Script194();
         break;
-      case "6cN4qkAIUW6":
+      case "694c1a0f6Go":
         Script195();
         break;
-      case "6bqjfvZtYq1":
+      case "5dgANl4PzRf":
         Script196();
         break;
-      case "6D8DBSpGDKY":
+      case "5p3DvDiV3DY":
         Script197();
         break;
-      case "6fer65j0VGq":
+      case "6rf4GINWPQ9":
         Script198();
         break;
-      case "5nNOav14zlq":
+      case "6RuauQV95ya":
         Script199();
         break;
-      case "6IdX1hFbtJx":
+      case "6LYyPFrMTe6":
         Script200();
         break;
-      case "5oCwSn71faE":
+      case "6ElPdyhnpKt":
         Script201();
         break;
-      case "625oTK1TMXB":
+      case "5WbNqnBY3Pa":
         Script202();
         break;
-      case "6eWCfC7le9M":
+      case "6NX0j0MtohD":
         Script203();
         break;
-      case "5i1kn2nTzPC":
+      case "5XF3zU7FRhd":
         Script204();
         break;
-      case "6c3c7DUHB8I":
+      case "6KRBDzwY0Or":
         Script205();
         break;
-      case "5xNu2Zvsv9D":
+      case "5x40J4UdLn7":
         Script206();
         break;
-      case "6dQN0yPkYHc":
+      case "60Lgrr6izl9":
         Script207();
         break;
-      case "6BmBZpco7TO":
+      case "69RpH9G1rJD":
         Script208();
         break;
-      case "6JUtPP5T9uR":
+      case "6jC43nMvnrI":
         Script209();
         break;
-      case "6Wojs2JgK5a":
+      case "6lWZUUETa5F":
         Script210();
         break;
-      case "5yH1h3UYDKg":
+      case "6eFzsWIqPLZ":
         Script211();
         break;
-      case "5s5GjCkCa0o":
+      case "6gvpw4dKWzp":
         Script212();
         break;
-      case "6iZcZtb4sxv":
+      case "6qg3o1rf6ZY":
         Script213();
         break;
-      case "6cpbk6sR8Ur":
+      case "6VTfKB73AdU":
         Script214();
         break;
-      case "6kWiYLpV7Dh":
+      case "6NASDo1jfHJ":
         Script215();
         break;
-      case "5jQNHfhJuFR":
+      case "5uSRYyeE1hi":
         Script216();
         break;
-      case "62l6Hg0EzD0":
+      case "5ZGKWlB80E9":
         Script217();
         break;
-      case "6bZmbFLcu4W":
+      case "6LCaiW3kh9P":
         Script218();
         break;
-      case "6is1iC9Dftj":
+      case "6hh0lUWs8nX":
         Script219();
         break;
-      case "5n9dbiCwYK9":
+      case "6YTEggBgx28":
         Script220();
         break;
-      case "6eg2hgME74y":
+      case "6CoZBtAkQGM":
         Script221();
         break;
-      case "5jrQQl2BMpM":
+      case "6ChwhFMezUl":
         Script222();
         break;
-      case "5YgCT8hQ2kf":
+      case "6cWGixZgLAd":
         Script223();
         break;
-      case "62vsy6vy4f5":
+      case "6czL6XQMF9k":
         Script224();
         break;
-      case "63Cb3DRjnPd":
+      case "5nbzhLQ9vWB":
         Script225();
         break;
-      case "6a5ZuVu2zfH":
+      case "6WSQ7A3WFPQ":
         Script226();
         break;
-      case "6CB2DC4gWmT":
+      case "6UNU2gPhhzc":
         Script227();
         break;
-      case "6FOBA8bU5jx":
+      case "6P9JLk8VBzl":
         Script228();
         break;
-      case "5fUDybeEkLN":
+      case "6aascjo0f31":
         Script229();
         break;
-      case "6D1OjHLfzt5":
+      case "64218mQkzkw":
         Script230();
         break;
-      case "68wM91PZRCV":
+      case "5skVOKuX03i":
         Script231();
         break;
-      case "6cT6hcTUWK6":
+      case "5Z7S5UMa7t0":
         Script232();
         break;
-      case "5iezSOitxLg":
+      case "66R4y6JAOlz":
         Script233();
         break;
-      case "5ZUCudqaDMu":
+      case "67uBZ3wvMJm":
         Script234();
         break;
-      case "6aOB5jWMY0o":
+      case "6hNDxyNrgUk":
         Script235();
         break;
-      case "5iigJOGgSjA":
+      case "5gDDF0JHKGH":
         Script236();
         break;
-      case "5xiuPSW9iRA":
+      case "6FR1RjhmanT":
         Script237();
         break;
-      case "5b2mb3Cu0rH":
+      case "5hohp9oct5V":
         Script238();
         break;
-      case "5q8dOv10oJ8":
+      case "6GOPFLwHj8S":
         Script239();
         break;
-      case "5aYxS8Cbfbk":
+      case "5cuAASg8s0b":
         Script240();
         break;
-      case "5sTHA1WIR0u":
+      case "5si2jnXk8zy":
         Script241();
         break;
-      case "6TVRE4Hh2Hv":
+      case "66roWUKHnKN":
         Script242();
         break;
-      case "5sENHySqQRL":
+      case "5mxVavR8McK":
         Script243();
         break;
-      case "65MvsT55zhf":
+      case "5cfPQi2RjUj":
         Script244();
         break;
-      case "61ZkzZCZIoZ":
+      case "6m8Bhpeki6B":
         Script245();
         break;
-      case "6Dyr7TYsvrm":
+      case "6Y5BXfjVdWz":
         Script246();
         break;
-      case "5p8HH1D3VU7":
+      case "6Z6aR3maGId":
         Script247();
         break;
-      case "5kq0pzePAIo":
+      case "6pjJLyMG7z0":
         Script248();
         break;
-      case "6lvGS7NRmaa":
+      case "6Hm7akN4n53":
         Script249();
         break;
-      case "6THvNXIQkSG":
+      case "6Ur3LDqvUuS":
         Script250();
         break;
-      case "5dv0ITza1qG":
+      case "68CPcEF7ybA":
         Script251();
         break;
-      case "6ovYQgmT6AL":
+      case "6TjySRVTi2d":
         Script252();
         break;
-      case "6QbFZFahP37":
+      case "6evDaajt9pr":
         Script253();
         break;
-      case "5f10koSYl7E":
+      case "5rrzC5T7XKK":
         Script254();
         break;
-      case "5pYj5MEjbUi":
+      case "5h05fr0a6tO":
         Script255();
         break;
-      case "61CEM90Gbmv":
+      case "62jZVVsbVGF":
         Script256();
         break;
-      case "6P8uSts9kj4":
+      case "6qGq2F4DS0n":
         Script257();
         break;
-      case "6C46WR9aBCi":
+      case "6gtUJx5yihF":
         Script258();
         break;
-      case "5sdROlKHeqo":
+      case "6HG7AVYJdhT":
         Script259();
         break;
-      case "6VeTqC0KQCI":
+      case "5rerO7tMTrc":
         Script260();
         break;
-      case "5vQWfXSHDOT":
+      case "6YTTks1gIYU":
         Script261();
         break;
-      case "6XnfA2tb3wd":
+      case "6OuxQIaSD61":
         Script262();
         break;
-      case "6pf5MJuTuds":
+      case "5bNIeZ9OYqE":
         Script263();
         break;
-      case "6APJYJc6Gv3":
+      case "5cEjByKqFuG":
         Script264();
         break;
-      case "5pLqvWsp8bU":
+      case "6amtysigO3w":
         Script265();
         break;
-      case "5sAAWo9DACC":
+      case "6YhXFAnEgs1":
         Script266();
         break;
-      case "6XvNayP20br":
+      case "5WY1VhfEVUa":
         Script267();
         break;
-      case "6ZL13pgoHaz":
+      case "6ardijqyEj5":
         Script268();
         break;
-      case "5bDIwKfPpwW":
+      case "6d6EpO2YNTP":
         Script269();
         break;
-      case "6EZZ3ohgOgg":
+      case "62uJ5Q3wRoZ":
         Script270();
         break;
-      case "68jYb0ZiWec":
+      case "6ZovKL2lCLj":
         Script271();
         break;
-      case "6LNEb9zncM7":
+      case "6nBLUJXncAT":
         Script272();
         break;
-      case "6ZUE1dF58SV":
+      case "5bkSdI5IkIh":
         Script273();
         break;
-      case "5X0I5kcI8H5":
+      case "6eqGOwskn4r":
         Script274();
         break;
-      case "5zYxvRVzUEY":
+      case "6gZOmCgymrE":
         Script275();
         break;
-      case "5s0Rcbbbosq":
+      case "5jPHE0aWIHR":
         Script276();
+        break;
+      case "6QBTF15F656":
+        Script277();
+        break;
+      case "5lSCNDJUJ0x":
+        Script278();
+        break;
+      case "6kqy21ctf19":
+        Script279();
+        break;
+      case "64yfmqIWUve":
+        Script280();
+        break;
+      case "6JvC8RxiATa":
+        Script281();
+        break;
+      case "6Cnc5hXDZnL":
+        Script282();
+        break;
+      case "5zGHz3e8yPd":
+        Script283();
+        break;
+      case "5jQL2tAerCU":
+        Script284();
+        break;
+      case "6NV7lT9sBKX":
+        Script285();
+        break;
+      case "5izPiutmzBQ":
+        Script286();
+        break;
+      case "603RAQbXpjz":
+        Script287();
+        break;
+      case "6eINPekN1ot":
+        Script288();
+        break;
+      case "6PIJxGX5nVh":
+        Script289();
+        break;
+      case "5w96XA9WjAA":
+        Script290();
+        break;
+      case "5s48OHb5bSX":
+        Script291();
+        break;
+      case "5WIyeVBZwrY":
+        Script292();
+        break;
+      case "6mZLn1dU18F":
+        Script293();
+        break;
+      case "6ECOuZmfF1n":
+        Script294();
+        break;
+      case "5XTt2r58mKH":
+        Script295();
+        break;
+      case "68vW1TMIBXS":
+        Script296();
+        break;
+      case "685PBiRMOQV":
+        Script297();
+        break;
+      case "6mLj48HBQjU":
+        Script298();
+        break;
+      case "5ocrU7N9SYL":
+        Script299();
+        break;
+      case "6mhmhGO5r1u":
+        Script300();
+        break;
+      case "5pvbTRyRX5G":
+        Script301();
+        break;
+      case "6DiBwTOPVoi":
+        Script302();
+        break;
+      case "6oGnezy9Gsx":
+        Script303();
+        break;
+      case "5gTa6oXFpCZ":
+        Script304();
+        break;
+      case "5wBn6ptvl1j":
+        Script305();
+        break;
+      case "64DDu5e0rOh":
+        Script306();
+        break;
+      case "6pP5DSYfiFC":
+        Script307();
+        break;
+      case "6aoD1paihcp":
+        Script308();
+        break;
+      case "5iFNEaPnXrv":
+        Script309();
+        break;
+      case "6rHmBETunWj":
+        Script310();
+        break;
+      case "6fz41nBpGmn":
+        Script311();
+        break;
+      case "5nkj9TALw31":
+        Script312();
+        break;
+      case "6pi96dJ0c7s":
+        Script313();
+        break;
+      case "6L2PyLbMryV":
+        Script314();
+        break;
+      case "6Fl1cEb3C1F":
+        Script315();
+        break;
+      case "5esDx8XnmkG":
+        Script316();
+        break;
+      case "5c1M57Dx5jd":
+        Script317();
+        break;
+      case "6MXX4S7C8Tw":
+        Script318();
+        break;
+      case "6Y0c51Y8PdN":
+        Script319();
+        break;
+      case "5zCQ4kvWuX0":
+        Script320();
+        break;
+      case "5YbFnmnMvuf":
+        Script321();
+        break;
+      case "5y8iKdwpJhp":
+        Script322();
+        break;
+      case "66UoS0kIKUr":
+        Script323();
+        break;
+      case "6H4RpHJTDNi":
+        Script324();
         break;
   }
 }
@@ -18441,6 +18585,3078 @@ if (scale == 100 && compColour) {
 }
 
 window.Script276 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script277 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script278 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script279 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script280 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script281 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script282 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script283 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script284 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script285 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script286 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script287 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script288 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script289 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script290 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script291 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script292 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script293 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script294 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script295 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script296 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script297 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script298 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script299 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script300 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script301 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script302 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script303 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script304 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script305 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script306 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script307 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script308 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script309 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script310 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script311 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script312 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script313 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script314 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script315 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script316 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script317 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script318 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script319 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script320 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script321 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script322 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script323 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script324 = function()
 {
   /* CHANGE THESE VARIABLES */
 const container = document.getElementById("links-right"); // Container for the buttons
