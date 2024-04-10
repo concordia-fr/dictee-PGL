@@ -2,986 +2,1034 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5WSt8M7bfHQ":
+      case "5ihB8zYnFVV":
         Script1();
         break;
-      case "6Gh7KffMwEw":
+      case "6cDfiDlOsrG":
         Script2();
         break;
-      case "6ah250Raqe6":
+      case "5onQ3SlANzd":
         Script3();
         break;
-      case "6Q0mq85f0QC":
+      case "6KvPtCiYxvv":
         Script4();
         break;
-      case "6TFyvDHroGW":
+      case "6HeSuV0Minb":
         Script5();
         break;
-      case "5a1PZWtEuja":
+      case "5XtzlvOj1rA":
         Script6();
         break;
-      case "6EsIORIeEJq":
+      case "6K0cRP9w1tq":
         Script7();
         break;
-      case "6af9qNjodPK":
+      case "5b0Ik7toPLC":
         Script8();
         break;
-      case "5bqbhSXRpT4":
+      case "5bDw8njKtyJ":
         Script9();
         break;
-      case "6Oug3DTI9Ge":
+      case "6SiCylatqf7":
         Script10();
         break;
-      case "6HH2KpIaPYj":
+      case "6kEx7Tn7Y4M":
         Script11();
         break;
-      case "6pDqlP9GYLN":
+      case "6JuONQNhTKx":
         Script12();
         break;
-      case "5vJNTi5efMA":
+      case "65cobybiGCW":
         Script13();
         break;
-      case "6aq7ewPyenh":
+      case "62z2ZAJoBWU":
         Script14();
         break;
-      case "6Y8dQ62xco6":
+      case "5tBX9e16CQX":
         Script15();
         break;
-      case "5XyGeyCwgTZ":
+      case "69ZRZdxjFto":
         Script16();
         break;
-      case "5unARWEkEKz":
+      case "6pZgp6SgPIr":
         Script17();
         break;
-      case "6KblChhUoqC":
+      case "5mjeXMEriel":
         Script18();
         break;
-      case "5hsn659T6Rv":
+      case "6jeopmUVZed":
         Script19();
         break;
-      case "5wrjFjkikAz":
+      case "6J0c6td1ugX":
         Script20();
         break;
-      case "64SsZ0W8ouW":
+      case "5V6wQOQfjcQ":
         Script21();
         break;
-      case "6IWgKbEXCvJ":
+      case "6SweRPciWJR":
         Script22();
         break;
-      case "6QPv4Fmmx3l":
+      case "6jfglvG5kBE":
         Script23();
         break;
-      case "5jnKraSYzG3":
+      case "5ugpsWEWB8x":
         Script24();
         break;
-      case "5ccMK4tANCm":
+      case "6J6bfvCSWTw":
         Script25();
         break;
-      case "6RFJqnZAtM8":
+      case "6FSwnsjDk8t":
         Script26();
         break;
-      case "5dyc6vEyXur":
+      case "6RkoMW8fb7X":
         Script27();
         break;
-      case "5ZzgPe8hvgK":
+      case "6iOofPpcRfM":
         Script28();
         break;
-      case "6e9b7cBzIVV":
+      case "6QNcml5WP0R":
         Script29();
         break;
-      case "6bvcN6AuEko":
+      case "6SFaNIhuZOn":
         Script30();
         break;
-      case "6nuPRAuEBjK":
+      case "6bEEymrXGvD":
         Script31();
         break;
-      case "6n7HecFXrWv":
+      case "6a6cUzVVVYt":
         Script32();
         break;
-      case "5usK2BM6T4h":
+      case "64NVZrvCPnw":
         Script33();
         break;
-      case "6PYo6gOTKKC":
+      case "5atgPlqkXBG":
         Script34();
         break;
-      case "6YEd6vFLCWF":
+      case "5qTGB2twHlh":
         Script35();
         break;
-      case "6oQ4gy4C66f":
+      case "5mz7XehHXHM":
         Script36();
         break;
-      case "5a1hEzPZTtm":
+      case "5aTyODjuZjO":
         Script37();
         break;
-      case "5cIrleYFzoa":
+      case "6khFzzDHAs8":
         Script38();
         break;
-      case "5lnfQKUhhyU":
+      case "6bUNMLfnWdu":
         Script39();
         break;
-      case "66DbHY82HqX":
+      case "5V4Jg7NYLER":
         Script40();
         break;
-      case "5cH1bLmKm7s":
+      case "6R7hjIrWDeQ":
         Script41();
         break;
-      case "5eVQdCxEabf":
+      case "5lBTtN4FHVE":
         Script42();
         break;
-      case "5h971z89ahd":
+      case "6J9uMlw0p37":
         Script43();
         break;
-      case "6iUdD70WlmD":
+      case "5qOGWP4aKUV":
         Script44();
         break;
-      case "6HpaU3Ghcgi":
+      case "6dyzo7HkbFu":
         Script45();
         break;
-      case "6VUKbFIPeIA":
+      case "5mxZwmHJByT":
         Script46();
         break;
-      case "5w9cUpV7mdY":
+      case "6mVpIVPE9AM":
         Script47();
         break;
-      case "5fv1FBVdf1H":
+      case "6RE21W62kOa":
         Script48();
         break;
-      case "6HT33tCBCjF":
+      case "5VVUdWpkAks":
         Script49();
         break;
-      case "5kubnA7Ar1G":
+      case "5q09vA13XF3":
         Script50();
         break;
-      case "5umdCE95Yjc":
+      case "5lBRtD8VbSx":
         Script51();
         break;
-      case "5xfdWX41IeO":
+      case "625AYk8NOqJ":
         Script52();
         break;
-      case "6p58gFXclKq":
+      case "65nNOHjzcHm":
         Script53();
         break;
-      case "5igNdLrbdRj":
+      case "5X7p8F7fuD7":
         Script54();
         break;
-      case "6B14HqnlwBT":
+      case "6pkxG2YgZHC":
         Script55();
         break;
-      case "5ecyCJrZxti":
+      case "6gto9HLDJjv":
         Script56();
         break;
-      case "6LznHKpxmDS":
+      case "6Io0uk0ZWI0":
         Script57();
         break;
-      case "5hA1zpqDSp8":
+      case "6DJQ0TRfcGD":
         Script58();
         break;
-      case "5gtzNGfR01Q":
+      case "5ZTo5eZ6iPJ":
         Script59();
         break;
-      case "6fO7XdS5x9o":
+      case "6GRIbRGZ0IQ":
         Script60();
         break;
-      case "5cFW9xKccJv":
+      case "6hMkuPr81Fr":
         Script61();
         break;
-      case "6M2D3cp77gz":
+      case "5aR4gvu9L2L":
         Script62();
         break;
-      case "6OOsDMEmW0H":
+      case "6DxeCO4v5gx":
         Script63();
         break;
-      case "6U5Up99KzWc":
+      case "6htkNUYKKuG":
         Script64();
         break;
-      case "6PKo4osVbuq":
+      case "62O5gZphnDs":
         Script65();
         break;
-      case "61p9VAVfTa2":
+      case "5m65o0JlTeB":
         Script66();
         break;
-      case "6mPqmTYh0oB":
+      case "6HjLNJb9ewW":
         Script67();
         break;
-      case "6XzfeVQD0Zw":
+      case "5lDsMHMBwVC":
         Script68();
         break;
-      case "6p2Dhy2HtvG":
+      case "6CJEJHCC8n2":
         Script69();
         break;
-      case "5aPvImPmUSP":
+      case "6k3XlQnwUWg":
         Script70();
         break;
-      case "6T8YgMQVPV5":
+      case "5Xg0c0NEz9c":
         Script71();
         break;
-      case "6g71EJiHz3o":
+      case "6psKk63ITWn":
         Script72();
         break;
-      case "5vXPWQTCnsy":
+      case "5hUkHbTbNy1":
         Script73();
         break;
-      case "6CgvxQ8DY0I":
+      case "5blfFPnenUm":
         Script74();
         break;
-      case "6U6SzRaPBOp":
+      case "6GE7b4mB0V7":
         Script75();
         break;
-      case "5cX4JhBWlD1":
+      case "5pQ4QorOT14":
         Script76();
         break;
-      case "5o5c96jZ3l3":
+      case "6lyGeHUr76W":
         Script77();
         break;
-      case "68jfOoTQLVV":
+      case "5ePMQTYJzLM":
         Script78();
         break;
-      case "6DfNFNyKC7i":
+      case "5ays628w8F5":
         Script79();
         break;
-      case "5knoAMCC7z5":
+      case "5fRI4BuI0JN":
         Script80();
         break;
-      case "6OSDVPTT5lw":
+      case "6MwJmbfPyV2":
         Script81();
         break;
-      case "5WhpRXAlYDk":
+      case "5gX5WIty4ST":
         Script82();
         break;
-      case "5ihiPELlInO":
+      case "6O8XP00NZtR":
         Script83();
         break;
-      case "6FukVzSOKsP":
+      case "65FJUG4Oeii":
         Script84();
         break;
-      case "5alKX716eka":
+      case "6PjIgbAmsUX":
         Script85();
         break;
-      case "69TK9PHigmd":
+      case "6LcAqL5YGFK":
         Script86();
         break;
-      case "61Dr2ag5Wej":
+      case "5gB37ks6ejy":
         Script87();
         break;
-      case "6RFwZmVYpnk":
+      case "5v1LwZF0ek2":
         Script88();
         break;
-      case "6NaOlEELbtp":
+      case "6cJM5tVdxJm":
         Script89();
         break;
-      case "5leEjndS4Xy":
+      case "62q6xjjd4YO":
         Script90();
         break;
-      case "5bx1aqhpYNY":
+      case "6Zd7flQxrl5":
         Script91();
         break;
-      case "6WdhL0KVDgK":
+      case "6fjwlETTYac":
         Script92();
         break;
-      case "6ovBUP0F0U6":
+      case "6L2sy5Mhqd0":
         Script93();
         break;
-      case "65lxSU2Bu6j":
+      case "6Xmjw27klKk":
         Script94();
         break;
-      case "6Ul89Ess7kh":
+      case "5zJFSMVH3Xn":
         Script95();
         break;
-      case "6OctGyFSU4c":
+      case "6HZiMjgjoZY":
         Script96();
         break;
-      case "6JqonTzWIy2":
+      case "6kjjn8PM25X":
         Script97();
         break;
-      case "6f1z9DrpGQ7":
+      case "6hynb3oYKQP":
         Script98();
         break;
-      case "5dF4BjwZJ1h":
+      case "6oUBtl10sMJ":
         Script99();
         break;
-      case "5Ykl2YtB4F4":
+      case "6Tu5fgrUkUd":
         Script100();
         break;
-      case "5h6nzTpGoMq":
+      case "6Weo4LlCO78":
         Script101();
         break;
-      case "5fa4CLZiM0C":
+      case "6fEdXmLGSM1":
         Script102();
         break;
-      case "6HqDf1l0XrK":
+      case "6nO70DNqZvm":
         Script103();
         break;
-      case "6bO6h3H4Ik9":
+      case "6merTvS1nMe":
         Script104();
         break;
-      case "6G6qezg3tuB":
+      case "5kbJzEXIXaj":
         Script105();
         break;
-      case "6ZsMzdiZwCI":
+      case "5mQNYGHEMiW":
         Script106();
         break;
-      case "63tX5tmshiq":
+      case "6MEDIi2ymx9":
         Script107();
         break;
-      case "6YD4xgfStHX":
+      case "66WyykZGsuR":
         Script108();
         break;
-      case "5lmS30svm8a":
+      case "6ajwQmaSxur":
         Script109();
         break;
-      case "6pDz2hEGQLc":
+      case "65UnMEG5Pem":
         Script110();
         break;
-      case "6LA99Q3QMwL":
+      case "66CpA1IwRAm":
         Script111();
         break;
-      case "5jMgKEeotB0":
+      case "6nkHwTPQ0yf":
         Script112();
         break;
-      case "6ociN29xKCS":
+      case "69baK1tnsMp":
         Script113();
         break;
-      case "5uJ5GtrLsD9":
+      case "5e87DHgyGab":
         Script114();
         break;
-      case "6912si2NjXj":
+      case "6DMcJ0AhLHv":
         Script115();
         break;
-      case "6KXBzZZ5gtb":
+      case "5ZTQIpRW6Nt":
         Script116();
         break;
-      case "6BjBgrlHaBN":
+      case "6YH6O4gEjd3":
         Script117();
         break;
-      case "6VFovLGBXe3":
+      case "6MqW8B26L3C":
         Script118();
         break;
-      case "619WwHAT52t":
+      case "5xGiXGIuqYg":
         Script119();
         break;
-      case "6V5f910VNLz":
+      case "5hBy2a9PzqV":
         Script120();
         break;
-      case "62vyLjAFo4K":
+      case "5kxDnnVl6Zu":
         Script121();
         break;
-      case "6kCyj6r5TKM":
+      case "5d4VQ2ACafY":
         Script122();
         break;
-      case "62YjpAxD6Rp":
+      case "5yzbtj8kZjx":
         Script123();
         break;
-      case "5x39OEsl72K":
+      case "60yAJDM5pKk":
         Script124();
         break;
-      case "5bxzUifiHYq":
+      case "6dv6sKmCkbY":
         Script125();
         break;
-      case "67iOwerFzTX":
+      case "6aRCfkVC4yB":
         Script126();
         break;
-      case "652gUJMbSJW":
+      case "5gW7QoXthd4":
         Script127();
         break;
-      case "6oYixqDfqZr":
+      case "6XEOB2VRqeE":
         Script128();
         break;
-      case "6IwYNl8idhO":
+      case "5ZMpBYgqHGy":
         Script129();
         break;
-      case "6YzSC5gs9To":
+      case "5mllEtcjR1F":
         Script130();
         break;
-      case "6KtyBv0vJRR":
+      case "6XaMMyn5FdP":
         Script131();
         break;
-      case "5YnOc6LGmMM":
+      case "5lLkqOV3t4o":
         Script132();
         break;
-      case "5b218mt3Hl8":
+      case "6ftvs8HlemX":
         Script133();
         break;
-      case "64EYhG9Oeqj":
+      case "6W6VoLRZHIl":
         Script134();
         break;
-      case "5pslQHZJMX7":
+      case "5z7wK7oUMGE":
         Script135();
         break;
-      case "6oZ7CkS1rsb":
+      case "6RpuDT1aRq4":
         Script136();
         break;
-      case "5mtWNa3kYjl":
+      case "667PxuRhp9c":
         Script137();
         break;
-      case "5q47VTusdjo":
+      case "6r9emAnzmdq":
         Script138();
         break;
-      case "5pLgglJNW0o":
+      case "69dA9cQRRmY":
         Script139();
         break;
-      case "6F6IsB44XZa":
+      case "6OmQZrGwIVB":
         Script140();
         break;
-      case "6AgPiCMCEZS":
+      case "5l3kKTafPrX":
         Script141();
         break;
-      case "5YKKnu5nRNf":
+      case "5u0VPj3jl3M":
         Script142();
         break;
-      case "6e8B7CZ5OGH":
+      case "66IrKyp3ZSW":
         Script143();
         break;
-      case "6o7tAitHuwO":
+      case "5lyGFRgWLEC":
         Script144();
         break;
-      case "6nuyO8KOIvK":
+      case "5jdEsprcuiS":
         Script145();
         break;
-      case "5kMZvJjgrYS":
+      case "6TTEKvidgi7":
         Script146();
         break;
-      case "6Qlb1TkgfC3":
+      case "5qB6vZwodCF":
         Script147();
         break;
-      case "60yOq0HMvGS":
+      case "6c8v2wdOs2w":
         Script148();
         break;
-      case "6ZYDmX0o0os":
+      case "6UQA2c24abd":
         Script149();
         break;
-      case "6fzER7WqsNY":
+      case "6TXOqtIURGV":
         Script150();
         break;
-      case "6oUJye0HZlq":
+      case "5nQ1oZU9rlf":
         Script151();
         break;
-      case "5WbKkcbwswC":
+      case "5gwgZfdMg5p":
         Script152();
         break;
-      case "6Gjte09LE0n":
+      case "6chlFkzvDkE":
         Script153();
         break;
-      case "5tY2uL87YZn":
+      case "6ODMYaLBChB":
         Script154();
         break;
-      case "6qPAjvtjtO8":
+      case "6JvmxFZ0gql":
         Script155();
         break;
-      case "5ur8pmu1ES4":
+      case "6BEtat8iupv":
         Script156();
         break;
-      case "6mMefwGd3uA":
+      case "6NCCpIbLLHR":
         Script157();
         break;
-      case "5kgFepR7jOK":
+      case "6Gahie8wJj9":
         Script158();
         break;
-      case "6Y45moVsADO":
+      case "6cm5hK7poDX":
         Script159();
         break;
-      case "6Cm5aURwcWd":
+      case "6M4teOoRPVD":
         Script160();
         break;
-      case "5s6m1CztXMT":
+      case "6lscUUVLKuY":
         Script161();
         break;
-      case "6jLyniHwDmR":
+      case "5ezg071xYXZ":
         Script162();
         break;
-      case "5bIBhdExB8D":
+      case "6LEDON3d7TE":
         Script163();
         break;
-      case "6JyUWvODmUb":
+      case "6FMexhDO0TF":
         Script164();
         break;
-      case "6YOreS6Axig":
+      case "5wW0Xi9dm01":
         Script165();
         break;
-      case "5xncGvtNE0X":
+      case "6nplv3p6vWg":
         Script166();
         break;
-      case "6DDH0EApPcZ":
+      case "6UJW52LDonB":
         Script167();
         break;
-      case "6lOhPFDNHMK":
+      case "6BxacChJoFm":
         Script168();
         break;
-      case "6kmgF9dC3gT":
+      case "5vv1sbSHVHl":
         Script169();
         break;
-      case "5hYSGPrceMD":
+      case "5iJY7aE3X8H":
         Script170();
         break;
-      case "6MwMcFZsCX1":
+      case "6ELpRCogSkF":
         Script171();
         break;
-      case "6SIQp6zPJX0":
+      case "6WxpOHs62SX":
         Script172();
         break;
-      case "5kx9OH7gi4t":
+      case "6Ufsgj0bhS6":
         Script173();
         break;
-      case "5mJ2D3ZdXJ6":
+      case "63CkmcLzTXG":
         Script174();
         break;
-      case "5WXHwp9SNk1":
+      case "5YS66WRpkxu":
         Script175();
         break;
-      case "6VfWl1DAQZo":
+      case "5WMyQj8tuUk":
         Script176();
         break;
-      case "6Jl0seTEZrx":
+      case "6LSvNBm1uDz":
         Script177();
         break;
-      case "6Gu3hOoqqnK":
+      case "64sMdRc5cBE":
         Script178();
         break;
-      case "647Ps2huER6":
+      case "5tExjfWjoEm":
         Script179();
         break;
-      case "60WwkPRqECz":
+      case "62G8ihnl1E8":
         Script180();
         break;
-      case "6RTCefwI5sG":
+      case "5roMaM3qTS4":
         Script181();
         break;
-      case "6jzMb7Z4S3O":
+      case "6YBJcMoR9aN":
         Script182();
         break;
-      case "6iZFacIMXHR":
+      case "6SasXnnZDuw":
         Script183();
         break;
-      case "6CE9dfohlzm":
+      case "6Y6jUsTWh4R":
         Script184();
         break;
-      case "5lxA65wjJQt":
+      case "5hMMRWOzv6E":
         Script185();
         break;
-      case "6M2ncbPbbQA":
+      case "5ySpGWekMwN":
         Script186();
         break;
-      case "5W1eBXYu2CV":
+      case "6mRVyeBIC7j":
         Script187();
         break;
-      case "5sMK6RqYU5V":
+      case "5ice1dHymxi":
         Script188();
         break;
-      case "6JIRYabdnun":
+      case "5YoTarbWwfG":
         Script189();
         break;
-      case "5qvv926xorf":
+      case "6mapsV2U7w7":
         Script190();
         break;
-      case "5r241e9NM92":
+      case "6bbhuoYySR2":
         Script191();
         break;
-      case "6dA1tTY0yap":
+      case "5l2qifNEKK8":
         Script192();
         break;
-      case "6hGB1tfxXBz":
+      case "5X8QCyBrRx5":
         Script193();
         break;
-      case "6rBvaZMs2XF":
+      case "5ecyZGsC0eM":
         Script194();
         break;
-      case "6a2t8OMpngK":
+      case "5mcbArNKz0q":
         Script195();
         break;
-      case "615eURMkhYs":
+      case "5Z5q4UqUaj0":
         Script196();
         break;
-      case "6EMqjKn4sMP":
+      case "67CbU7f0Hxv":
         Script197();
         break;
-      case "5Uv8dzbSHn6":
+      case "6ZMWv2nuwfq":
         Script198();
         break;
-      case "6OhpbT34sGt":
+      case "667gFHg42xK":
         Script199();
         break;
-      case "67QftpZ3sda":
+      case "5hTsUU0XmoP":
         Script200();
         break;
-      case "6OYJuyuSWi7":
+      case "6osdWEZN74g":
         Script201();
         break;
-      case "5fNJhnLbqby":
+      case "5p1cfLcSBsm":
         Script202();
         break;
-      case "5de5gfamE7W":
+      case "5ikUtiSiw9z":
         Script203();
         break;
-      case "5UjJn5hoc8M":
+      case "6TsPdfnH8FD":
         Script204();
         break;
-      case "5yTyxxeHBvk":
+      case "5hFibc1HOlI":
         Script205();
         break;
-      case "6E9wWbTM1eL":
+      case "6FXQT9uknYx":
         Script206();
         break;
-      case "6Ggmi3GuKuP":
+      case "6TlDNKWudgk":
         Script207();
         break;
-      case "6q6T4zSBgMO":
+      case "6FXPgRwvA5Q":
         Script208();
         break;
-      case "5wggLsyHzeg":
+      case "5hfS1KXcgVr":
         Script209();
         break;
-      case "6Mf4Ra9P1nE":
+      case "6c2WXGdj17w":
         Script210();
         break;
-      case "6SOitlXKHVB":
+      case "5c0b0apyPFj":
         Script211();
         break;
-      case "6JOuKKm0hT5":
+      case "6b0ufrrfuRo":
         Script212();
         break;
-      case "60M0zh1OJcQ":
+      case "5VlaWQ2o4ya":
         Script213();
         break;
-      case "5nTdFqy481h":
+      case "5Y90RwHWDaT":
         Script214();
         break;
-      case "5Zmou23nLNw":
+      case "5aeNJe6SVuC":
         Script215();
         break;
-      case "6W2nznGYxgj":
+      case "69GxWDxiBvH":
         Script216();
         break;
-      case "6MyQbinfe1h":
+      case "6lakgVE9YKg":
         Script217();
         break;
-      case "6XcnUHxAXUO":
+      case "6AdwWmvZScE":
         Script218();
         break;
-      case "693uumHWxz2":
+      case "6GNJphKIjU1":
         Script219();
         break;
-      case "61KX8rOr6K6":
+      case "6RwAgNH7yz6":
         Script220();
         break;
-      case "5ws5RfyvcYv":
+      case "5xohjjsmPDQ":
         Script221();
         break;
-      case "5iWlPE3dXeU":
+      case "5W1zoPfnRuG":
         Script222();
         break;
-      case "69qgONQD1gY":
+      case "5VUYq0zUekh":
         Script223();
         break;
-      case "5vXROcSfizZ":
+      case "6lR7MwyrRbe":
         Script224();
         break;
-      case "5qc4yPP2Fbh":
+      case "5kN1uumdp9L":
         Script225();
         break;
-      case "6la1Z7hXFCz":
+      case "6aAEYntlVCa":
         Script226();
         break;
-      case "60Hrjv43XMR":
+      case "5Zy4C1KKAhm":
         Script227();
         break;
-      case "5j25LodeUQd":
+      case "6Ej47iGDd8v":
         Script228();
         break;
-      case "5eKNNVG6eyZ":
+      case "6orJ2cMbPm9":
         Script229();
         break;
-      case "60lYWJvkhfl":
+      case "5YCZJRF7aFK":
         Script230();
         break;
-      case "5uUv7miX0oF":
+      case "6flGhafuDzE":
         Script231();
         break;
-      case "6GMha7IRoD7":
+      case "6RP06qhaQIw":
         Script232();
         break;
-      case "5d0zzSdOUFP":
+      case "5aPGiYPrIoA":
         Script233();
         break;
-      case "5uagtiTL8Sk":
+      case "6phB0Hal3Fs":
         Script234();
         break;
-      case "65fYkkUMRPl":
+      case "5tedTOrkJ8i":
         Script235();
         break;
-      case "6N2ZnuA8kPT":
+      case "6O62tVtNwYZ":
         Script236();
         break;
-      case "5gAq4TcQLqr":
+      case "6Eq8Bkaz1J5":
         Script237();
         break;
-      case "65zKVgSCGzf":
+      case "6Eq0ViMNqMP":
         Script238();
         break;
-      case "6SV66uWDPUh":
+      case "5oX3MJtCMVr":
         Script239();
         break;
-      case "5erqFhveO2F":
+      case "5oqVHPEU5lh":
         Script240();
         break;
-      case "5gbIGT8eHsk":
+      case "6aXdPovmCJe":
         Script241();
         break;
-      case "6Z15nE9Zrdy":
+      case "6H4MTQVZlZs":
         Script242();
         break;
-      case "5VhxKBmkiJC":
+      case "6eAHAYInIFf":
         Script243();
         break;
-      case "6013IPyaIl6":
+      case "5tTTjQD6Uc1":
         Script244();
         break;
-      case "6EuHBRSlNkk":
+      case "62hcAzcdYcw":
         Script245();
         break;
-      case "67fBoch12FR":
+      case "5oUqEDAsVlr":
         Script246();
         break;
-      case "5gwgFkRC5qZ":
+      case "6aZ4ouaPla7":
         Script247();
         break;
-      case "5bODYBgg6od":
+      case "60WkBfhDf4N":
         Script248();
         break;
-      case "6cPrzM18ba4":
+      case "6jIKbb9t9Gy":
         Script249();
         break;
-      case "6Jjsa027qcp":
+      case "6W1TqPsSeLi":
         Script250();
         break;
-      case "65ZTDgMACLc":
+      case "6mMDtXRU0oi":
         Script251();
         break;
-      case "619j7xU3E0d":
+      case "5XJJdDFdELq":
         Script252();
         break;
-      case "6LfkkJlNTkS":
+      case "5sv2Cgkh7XE":
         Script253();
         break;
-      case "6D7ojrB5ykv":
+      case "5XC24Z1jeo4":
         Script254();
         break;
-      case "6kxgAFWtSuz":
+      case "6CONvjp8Rmx":
         Script255();
         break;
-      case "5hHVUmwY9H7":
+      case "6ZGicypqg1q":
         Script256();
         break;
-      case "5hos335zGxy":
+      case "5am4faJqCnV":
         Script257();
         break;
-      case "6NJd7ocXDFU":
+      case "6mYat0gLcDH":
         Script258();
         break;
-      case "6g7aSbcBvcQ":
+      case "65TitGDIlDF":
         Script259();
         break;
-      case "5WTt0r8A02s":
+      case "6nrnMNreJKl":
         Script260();
         break;
-      case "64dIiHNSqVO":
+      case "6PdAfFCf73k":
         Script261();
         break;
-      case "6B2a0S4NDdn":
+      case "5Wcs97mXWCB":
         Script262();
         break;
-      case "67AemtgVLwO":
+      case "5obsqlZrPiY":
         Script263();
         break;
-      case "5XQmbvuyrdD":
+      case "6WPVuXbBYg8":
         Script264();
         break;
-      case "6EGZsw1XOU3":
+      case "6QglhPb6BBR":
         Script265();
         break;
-      case "6ajFsv3LIos":
+      case "6kataIOhUuL":
         Script266();
         break;
-      case "6SpgNdo8NN1":
+      case "6nKnYVR7akr":
         Script267();
         break;
-      case "5u2VfJcq3XC":
+      case "5pnP0nePkFB":
         Script268();
         break;
-      case "6V0GSGhu0CZ":
+      case "5tHr77NSL4H":
         Script269();
         break;
-      case "5nJo4lVSmcr":
+      case "6gPf5mn9dUT":
         Script270();
         break;
-      case "6fgl16Thcer":
+      case "6pir6QHjkO9":
         Script271();
         break;
-      case "5zMt1dp12dm":
+      case "5vCnMOBJgdO":
         Script272();
         break;
-      case "6my2VoxPrsK":
+      case "5uFvv3SM6i2":
         Script273();
         break;
-      case "6ow7s9regne":
+      case "6NBndwViEVq":
         Script274();
         break;
-      case "5oxgWcbF7r1":
+      case "6ojVKGyyUQj":
         Script275();
         break;
-      case "5UiEX43t3Ae":
+      case "5ofKRJhWKVZ":
         Script276();
         break;
-      case "6ldlB7uRhma":
+      case "6h25ggpKxub":
         Script277();
         break;
-      case "6XR9EubHUhX":
+      case "66b7xj4NOZD":
         Script278();
         break;
-      case "5g3GPwxecfY":
+      case "5tcFW1Bf6Dp":
         Script279();
         break;
-      case "5gce00rZjkH":
+      case "64DQGsz1iGW":
         Script280();
         break;
-      case "6mWuljfgADj":
+      case "62LESy1Eziu":
         Script281();
         break;
-      case "5h0XULnxeTE":
+      case "6K5VKGYNIFw":
         Script282();
         break;
-      case "6MvFsaLRBD4":
+      case "6eUiYnidxNl":
         Script283();
         break;
-      case "6UhboyQEUli":
+      case "6WMOq8bfQsb":
         Script284();
         break;
-      case "5xIyJoSsnFl":
+      case "6dwOxZBzjzQ":
         Script285();
         break;
-      case "68hSOOl1Wmb":
+      case "6oNWRhRoCYc":
         Script286();
         break;
-      case "5qMz24AZOUD":
+      case "5lJGO34Mxkv":
         Script287();
         break;
-      case "5WxrNa5PRHF":
+      case "5oZeAi6vJwu":
         Script288();
         break;
-      case "5nz63mN5myB":
+      case "5WXyrxjcUHh":
         Script289();
         break;
-      case "6XZoHoQYx2h":
+      case "6SAHgWv17Wb":
         Script290();
         break;
-      case "5mgCdFltqo9":
+      case "5iMuAzuek7P":
         Script291();
         break;
-      case "6fiqA8XJinE":
+      case "5pYwfxnuXiW":
         Script292();
         break;
-      case "6B5YvQEqM44":
+      case "69oHmMHFtqV":
         Script293();
         break;
-      case "6A6fpsPqzWI":
+      case "6eosgs99iW6":
         Script294();
         break;
-      case "6AsuFyOU5IA":
+      case "5gZr8Pk6GIe":
         Script295();
         break;
-      case "6NSXupQ3S1Q":
+      case "6KmA7ry46CV":
         Script296();
         break;
-      case "69DuZin7fwr":
+      case "5YvHsotUl6q":
         Script297();
         break;
-      case "6dZQDtzX8aG":
+      case "5mxjzQWuhXF":
         Script298();
         break;
-      case "6ehDD1Q9ikI":
+      case "61YCABdopYv":
         Script299();
         break;
-      case "6AMTr8EqO8o":
+      case "5VzlaufthEr":
         Script300();
         break;
-      case "68HysSCMuzC":
+      case "62wkMkVfzVC":
         Script301();
         break;
-      case "5r34DNmddb7":
+      case "6QLFP6jbxi2":
         Script302();
         break;
-      case "6Kn4BVqTAWb":
+      case "5zK9AcpiR75":
         Script303();
         break;
-      case "6Ji6tvUeO4e":
+      case "5yASeIiL6xp":
         Script304();
         break;
-      case "63OEUI683Eb":
+      case "6oShRYQoKUS":
         Script305();
         break;
-      case "5zddjM1ar8z":
+      case "5pqDKwK3Vnb":
         Script306();
         break;
-      case "5sqg27x0VHD":
+      case "6rXuABDwXiz":
         Script307();
         break;
-      case "5uueIp5VTA8":
+      case "5sPElZtTuBT":
         Script308();
         break;
-      case "60ksBGyyJTU":
+      case "6K7t4NpqcRQ":
         Script309();
         break;
-      case "5xBsa5N642R":
+      case "6pGtqzGZKR1":
         Script310();
         break;
-      case "6qzrFIOUSSE":
+      case "6PCmd0zEsWz":
         Script311();
         break;
-      case "6GNaaJJw25j":
+      case "5Z7xbi8d3gy":
         Script312();
         break;
-      case "6AmEMwOU0xU":
+      case "6b02hbfvSdo":
         Script313();
         break;
-      case "6LGfLLPjWQu":
+      case "5kUhJMUgMC4":
         Script314();
         break;
-      case "60u9LwFUFex":
+      case "69cYgLCJJhi":
         Script315();
         break;
-      case "636OPV35qHw":
+      case "5fG14ZF4MhL":
         Script316();
         break;
-      case "6X0D0YSqowP":
+      case "6coFpsokKh3":
         Script317();
         break;
-      case "6DMbkWfYBpK":
+      case "6Q7A0x437Ug":
         Script318();
         break;
-      case "6CkKHr7yafy":
+      case "5f825qTGJne":
         Script319();
         break;
-      case "6igyAaD5XwW":
+      case "6AwGbYQNZnH":
         Script320();
         break;
-      case "6UyJ7aw70Cw":
+      case "5foAmjuwcA8":
         Script321();
         break;
-      case "5atq03zC9HK":
+      case "6gUCweZGVJ0":
         Script322();
         break;
-      case "6Wx2h5LGDJe":
+      case "6Pm3VtzXw5A":
         Script323();
         break;
-      case "62VbCLy7mS8":
+      case "5VMwAafYzRw":
         Script324();
         break;
-      case "6hZ1P4WjApL":
+      case "64Ibof2t1xa":
         Script325();
         break;
-      case "6bwrIH9jhHW":
+      case "5hoIZ0BRwZx":
         Script326();
         break;
-      case "64987UG9DEq":
+      case "6gEgmMDAQzU":
         Script327();
+        break;
+      case "5WeLXuBJLIX":
+        Script328();
+        break;
+      case "6953coS4VRD":
+        Script329();
+        break;
+      case "6PFCN9ZruEX":
+        Script330();
+        break;
+      case "5pY5OUkg4zX":
+        Script331();
+        break;
+      case "5z5nkpqCpT3":
+        Script332();
+        break;
+      case "5xYT5TnMbDk":
+        Script333();
+        break;
+      case "5XSApyYpZUY":
+        Script334();
+        break;
+      case "5m4ZFj8DCmD":
+        Script335();
+        break;
+      case "6BbVwY1f7Dx":
+        Script336();
+        break;
+      case "6pG3GuJkIUY":
+        Script337();
+        break;
+      case "6Q43eWKkYov":
+        Script338();
+        break;
+      case "6LuoGlNT3dT":
+        Script339();
+        break;
+      case "6bUEiJsByA7":
+        Script340();
+        break;
+      case "6FQ7CNrVQTL":
+        Script341();
+        break;
+      case "6BOI1doImQR":
+        Script342();
+        break;
+      case "69ZlHtjeOEp":
+        Script343();
         break;
   }
 }
@@ -21858,6 +21906,1030 @@ if (scale == 100 && compColour) {
 }
 
 window.Script327 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script328 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script329 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script330 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script331 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script332 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script333 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script334 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script335 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script336 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script337 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script338 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script339 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script340 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script341 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script342 = function()
+{
+  /* CHANGE THESE VARIABLES */
+const container = document.getElementById("links-right"); // Container for the buttons
+const bgColour = "#F6F9FB"; // BACKGROUND COLOUR.
+const barColour = "#FCCE4B"; // PROGRESS COLOUR.
+const compColour = "#19BB32"; // COMPLETED COLOUR (will not change if empty).
+const borderRad = "100px"; // BORDER RADIUS.
+const progress = "Progress"; // PROGRESS VARIABLE (Case Sensitive).
+/* DO NOT CHANGE BELOW UNLESS INTENDED */
+const player = GetPlayer();
+let scale = player.GetVar(progress);
+let testElement = !!document.getElementById("pBar"); // Test to see if the bar already exists.
+if (!testElement) { // If bar doesn't exist
+    // Create a container for the Progress Bar
+    let progressBarContainer = document.createElement("div");
+    progressBarContainer.id = "progressBarContainer";
+    progressBarContainer.style.display = "flex";
+    progressBarContainer.style.alignItems = "center";
+    progressBarContainer.style.justifyContent = "flex-end";
+    progressBarContainer.style.flexDirection = "row-reverse";
+    progressBarContainer.style.height = "15px";
+    progressBarContainer.style.transform = "translate(20px,3px)";
+    
+    // Create the background element for the Progress Bar
+    let bgBar = document.createElement("div");
+    bgBar.id = "bgBar";
+    bgBar.style.width = "100%";
+    bgBar.style.height = "100%";
+    bgBar.style.backgroundColor = bgColour;
+    bgBar.style.borderRadius = borderRad;
+
+    // Create the progress element of the Progress Bar
+    let pBar = document.createElement("div");
+    pBar.id = "pBar";
+    pBar.style.width = scale + "%";
+    pBar.style.height = "100%";
+    pBar.style.backgroundColor = barColour;
+    pBar.style.borderRadius = borderRad;
+    pBar.style.position = "absolute";
+
+    // Set the max width for the progress bar (e.g., 300px)
+    progressBarContainer.style.maxWidth = "20%";
+
+    // Insert the background and progress elements into the container
+    progressBarContainer.appendChild(bgBar);
+    progressBarContainer.appendChild(pBar);
+
+    // Insert the progressBarContainer into the "links-right" element
+    container.appendChild(progressBarContainer);
+
+    // Check and set the display property for the "links-right" element
+    const linksRightDisplayStyle = window.getComputedStyle(container).getPropertyValue("display");
+    if (linksRightDisplayStyle === "none") {
+        container.style.display = "block";
+    }
+} else { // If it does exist
+    document.getElementById('pBar').style.width = scale + "%"; // Update the width
+}
+if (scale == 100 && compColour) {
+    document.getElementById('pBar').style.backgroundColor = compColour;
+}
+}
+
+window.Script343 = function()
 {
   /* CHANGE THESE VARIABLES */
 const container = document.getElementById("links-right"); // Container for the buttons
